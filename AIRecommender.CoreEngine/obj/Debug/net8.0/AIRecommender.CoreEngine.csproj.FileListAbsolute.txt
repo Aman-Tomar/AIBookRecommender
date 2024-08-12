@@ -1,0 +1,11 @@
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\bin\Debug\net8.0\AIRecommender.CoreEngine.deps.json
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\bin\Debug\net8.0\AIRecommender.CoreEngine.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\bin\Debug\net8.0\AIRecommender.CoreEngine.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\obj\Debug\net8.0\AIRecommender.CoreEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\obj\Debug\net8.0\AIRecommender.CoreEngine.AssemblyInfoInputs.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\obj\Debug\net8.0\AIRecommender.CoreEngine.AssemblyInfo.cs
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\obj\Debug\net8.0\AIRecommender.CoreEngine.csproj.CoreCompileInputs.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\obj\Debug\net8.0\AIRecommender.CoreEngine.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\obj\Debug\net8.0\refint\AIRecommender.CoreEngine.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\obj\Debug\net8.0\AIRecommender.CoreEngine.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.CoreEngine\obj\Debug\net8.0\ref\AIRecommender.CoreEngine.dll

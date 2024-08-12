@@ -1,0 +1,207 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CsvHelper/33.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AIRecommender.Aggregator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AIRecommender.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AIRecommender.Aggregator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AIRecommender.Aggregator.dll": {}
+        }
+      },
+      "AIRecommender.CoreEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AIRecommender.CoreEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AIRecommender.CoreEngine.dll": {}
+        }
+      },
+      "AIRecommender.Dataloader/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AIRecommender.Entities": "1.0.0",
+          "CsvHelper": "33.0.1"
+        },
+        "compile": {
+          "bin/placeholder/AIRecommender.Dataloader.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AIRecommender.Dataloader.dll": {}
+        }
+      },
+      "AIRecommender.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AIRecommender.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AIRecommender.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsvHelper/33.0.1": {
+      "sha512": "fev4lynklAU2A9GVMLtwarkwaanjSYB4wUqO2nOJX5hnzObORzUqVLe+bDYCUyIIRQM4o5Bsq3CcyJR89iMmEQ==",
+      "type": "package",
+      "path": "csvhelper/33.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "csvhelper.33.0.1.nupkg.sha512",
+        "csvhelper.nuspec",
+        "lib/net462/CsvHelper.dll",
+        "lib/net462/CsvHelper.xml",
+        "lib/net47/CsvHelper.dll",
+        "lib/net47/CsvHelper.xml",
+        "lib/net48/CsvHelper.dll",
+        "lib/net48/CsvHelper.xml",
+        "lib/net6.0/CsvHelper.dll",
+        "lib/net6.0/CsvHelper.xml",
+        "lib/net7.0/CsvHelper.dll",
+        "lib/net7.0/CsvHelper.xml",
+        "lib/net8.0/CsvHelper.dll",
+        "lib/net8.0/CsvHelper.xml",
+        "lib/netstandard2.0/CsvHelper.dll",
+        "lib/netstandard2.0/CsvHelper.xml",
+        "lib/netstandard2.1/CsvHelper.dll",
+        "lib/netstandard2.1/CsvHelper.xml"
+      ]
+    },
+    "AIRecommender.Aggregator/1.0.0": {
+      "type": "project",
+      "path": "../AIRecommender.Aggregator/AIRecommender.Aggregator.csproj",
+      "msbuildProject": "../AIRecommender.Aggregator/AIRecommender.Aggregator.csproj"
+    },
+    "AIRecommender.CoreEngine/1.0.0": {
+      "type": "project",
+      "path": "../AIRecommender.CoreEngine/AIRecommender.CoreEngine.csproj",
+      "msbuildProject": "../AIRecommender.CoreEngine/AIRecommender.CoreEngine.csproj"
+    },
+    "AIRecommender.Dataloader/1.0.0": {
+      "type": "project",
+      "path": "../AIRecommender.Dataloader/AIRecommender.Dataloader.csproj",
+      "msbuildProject": "../AIRecommender.Dataloader/AIRecommender.Dataloader.csproj"
+    },
+    "AIRecommender.Entities/1.0.0": {
+      "type": "project",
+      "path": "../AIRecommender.Entities/AIRecommender.Entities.csproj",
+      "msbuildProject": "../AIRecommender.Entities/AIRecommender.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AIRecommender.Aggregator >= 1.0.0",
+      "AIRecommender.CoreEngine >= 1.0.0",
+      "AIRecommender.Dataloader >= 1.0.0",
+      "AIRecommender.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Aman.Tomar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Aman.Tomar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Aman.Tomar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\AIRecommender.Aggregator\\AIRecommender.Aggregator.csproj": {
+              "projectPath": "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\AIRecommender.Aggregator\\AIRecommender.Aggregator.csproj"
+            },
+            "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\AIRecommender.CoreEngine\\AIRecommender.CoreEngine.csproj": {
+              "projectPath": "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\AIRecommender.CoreEngine\\AIRecommender.CoreEngine.csproj"
+            },
+            "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\AIRecommender.Dataloader\\AIRecommender.Dataloader.csproj": {
+              "projectPath": "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\AIRecommender.Dataloader\\AIRecommender.Dataloader.csproj"
+            },
+            "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\AIRecommender.Entities\\AIRecommender.Entities.csproj": {
+              "projectPath": "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\AIRecommender.Entities\\AIRecommender.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\bin\Debug\net8.0\AIRecommender.Dataloader.deps.json
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\bin\Debug\net8.0\AIRecommender.Dataloader.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\bin\Debug\net8.0\AIRecommender.Dataloader.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\bin\Debug\net8.0\AIRecommender.Entities.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\bin\Debug\net8.0\AIRecommender.Entities.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\AIRecommender.Dataloader.csproj.AssemblyReference.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\AIRecommender.Dataloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\AIRecommender.Dataloader.AssemblyInfoInputs.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\AIRecommender.Dataloader.AssemblyInfo.cs
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\AIRecommender.Dataloader.csproj.CoreCompileInputs.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\AIRecomm.1E8467D1.Up2Date
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\AIRecommender.Dataloader.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\refint\AIRecommender.Dataloader.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\AIRecommender.Dataloader.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Dataloader\obj\Debug\net8.0\ref\AIRecommender.Dataloader.dll

@@ -1,0 +1,11 @@
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\bin\Debug\net8.0\AIRecommender.Entities.deps.json
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\bin\Debug\net8.0\AIRecommender.Entities.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\bin\Debug\net8.0\AIRecommender.Entities.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\obj\Debug\net8.0\AIRecommender.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\obj\Debug\net8.0\AIRecommender.Entities.AssemblyInfoInputs.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\obj\Debug\net8.0\AIRecommender.Entities.AssemblyInfo.cs
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\obj\Debug\net8.0\AIRecommender.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\obj\Debug\net8.0\AIRecommender.Entities.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\obj\Debug\net8.0\refint\AIRecommender.Entities.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\obj\Debug\net8.0\AIRecommender.Entities.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Entities\obj\Debug\net8.0\ref\AIRecommender.Entities.dll

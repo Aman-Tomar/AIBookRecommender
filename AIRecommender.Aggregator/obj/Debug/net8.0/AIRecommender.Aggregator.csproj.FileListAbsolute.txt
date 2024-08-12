@@ -1,0 +1,15 @@
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\bin\Debug\net8.0\AIRecommender.Aggregator.deps.json
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\bin\Debug\net8.0\AIRecommender.Aggregator.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\bin\Debug\net8.0\AIRecommender.Aggregator.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\bin\Debug\net8.0\AIRecommender.Entities.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\bin\Debug\net8.0\AIRecommender.Entities.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\AIRecommender.Aggregator.csproj.AssemblyReference.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\AIRecommender.Aggregator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\AIRecommender.Aggregator.AssemblyInfoInputs.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\AIRecommender.Aggregator.AssemblyInfo.cs
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\AIRecommender.Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\AIRecomm.728A7CD7.Up2Date
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\AIRecommender.Aggregator.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\refint\AIRecommender.Aggregator.dll
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\AIRecommender.Aggregator.pdb
+C:\Users\Aman.Tomar\source\AIRecommendation\ConsoleApp1\AIRecommender.Aggregator\obj\Debug\net8.0\ref\AIRecommender.Aggregator.dll

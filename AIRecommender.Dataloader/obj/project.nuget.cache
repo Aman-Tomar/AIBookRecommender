@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzkZnUWR/X8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aman.Tomar\\source\\AIRecommendation\\ConsoleApp1\\AIRecommender.Dataloader\\AIRecommender.Dataloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aman.Tomar\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
